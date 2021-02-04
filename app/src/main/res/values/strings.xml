@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">The Simon Game</string>
+    <string name="cred1">Gagandeep Singh Bhambrah \n19cse223</string>
+    <string name="cred2">Abhishek Singh \n19cse224</string>
+    <string name="cred3">S. Bharath Kumar \n19cse222</string>
+    <string-array name="difficulty_setting">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Geek</item>
+    </string-array>
+
+    <string name="link"><a href="https://forms.gle/Gv8Qc6MMihbg7YVC7">Feedback</a></string>
+</resources>
